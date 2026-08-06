@@ -65,4 +65,4 @@ FAIL cùng phơi bày một bug gốc (VD 6 test phone FR-04 → BUG-05; 10 test
 
 Bug nổi bật (Critical): BUG-04 leo thang quyền role (FR-04), BUG-06 sai công thức giảm giá
 (FR-09), BUG-09 thiếu access control Product API (FR-15). FR-20 lần này bắt được lỗi bộ đếm
-`+2` và khóa sớm mà bộ test trước bỏ lọt.
+`+2` và khóa sớm mà bộ test trước bỏ lọt. 
